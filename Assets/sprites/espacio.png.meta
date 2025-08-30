@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 00d6890da39748e43bd44caa3a37e108
+guid: 19eb98e4f1bd15046ac5a59a1075e802
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9018766191984741559
-    second: espacio3_0
+      213: 144369665077079407
+    second: espacio_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: espacio3_0
+      name: espacio_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7bc8d817118192d70800000000000000
-      internalID: 9018766191984741559
+      spriteID: f6de24b0277e00200800000000000000
+      internalID: 144369665077079407
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      espacio3_0: 9018766191984741559
+      espacio_0: 144369665077079407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
