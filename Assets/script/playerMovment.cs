@@ -4,12 +4,12 @@ public class playerMovment : MonoBehaviour
 {
 
     public float speed;
-    private Rigidbody2D _rigidbody2D;
+    [SerializeField] private Rigidbody2D _rigidbody2D;
     public float _horizontalDirection;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
-    void Start()
+    void Awake()
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
 
